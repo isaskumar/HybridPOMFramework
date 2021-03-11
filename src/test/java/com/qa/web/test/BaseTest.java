@@ -29,16 +29,17 @@ public class BaseTest {
 	public String password = readConfig.getPassword();
 	public static WebDriver driver;
 	public static Logger logger;
-	
-	
+
+
 	@Parameters("browser")
 	@BeforeClass
 	public void setup(String browser)
 	{
 		logger = Logger.getLogger("Web Application");
 		PropertyConfigurator.configure("Log4j.properties");
-		
+
 		if(browser.equals("chrome")) {
+			System.getProperty("webdriver.chrome.driver", readConfig.getChromePath());
 			driver = new ChromeDriver();
 		} else {
 			driver = new FirefoxDriver();
@@ -50,18 +51,18 @@ public class BaseTest {
 	public void tearDown() {
 		driver.quit();
 	}
-	
+
 	public static void takeScreenshot(WebDriver driver, String name) throws IOException {
 		File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		String currentDir = System.getProperty("user.dir");
 		FileUtils.copyFile(scrFile, new File(currentDir + "/Screenshots/" + name + ".png"));
 	}
-	
+
 	public String randomString() {
 		String generatedString = RandomStringUtils.randomAlphabetic(9);
 		return(generatedString);
 	}
-	
+
 	public static String randomNumber() {
 		String generateNumeber = RandomStringUtils.randomNumeric(6);
 		return(generateNumeber);

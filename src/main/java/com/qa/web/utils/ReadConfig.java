@@ -25,14 +25,20 @@ public class ReadConfig {
 		String url=prop.getProperty("baseURL");
 		return url;	
 	}
-	
+
 	public String getUserName() {
 		String username=prop.getProperty("username");
 		return username;	
 	}
-	
+
 	public String getPassword() {
 		String password=prop.getProperty("password");
 		return password;	
+	}
+
+	public String getChromePath()
+	{
+		String chromepath=prop.getProperty("chromepath");
+		return chromepath;
 	}
 }
