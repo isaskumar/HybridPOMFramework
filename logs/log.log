@@ -1,0 +1,209 @@
+08/mar/2021 11:45:48,435- Web Application: URL is opened
+08/mar/2021 11:45:48,603- Web Application: UserName Entered
+08/mar/2021 11:45:48,701- Web Application: Password Entered
+08/mar/2021 11:45:49,635- Web Application: Login Button Clicked
+08/mar/2021 11:45:49,655- Web Application: Login test passed
+08/mar/2021 14:33:51,075- Web Application: URL is opened
+08/mar/2021 14:33:51,301- Web Application: UserName Entered
+08/mar/2021 14:33:51,427- Web Application: Password Entered
+08/mar/2021 14:33:52,363- Web Application: Login Button Clicked
+08/mar/2021 14:33:52,381- Web Application: Login test passed
+08/mar/2021 14:51:54,098- Web Application: URL is opened
+08/mar/2021 14:51:54,266- Web Application: UserName Entered
+08/mar/2021 14:51:54,355- Web Application: Password Entered
+08/mar/2021 14:51:55,382- Web Application: Login Button Clicked
+08/mar/2021 14:51:55,405- Web Application: Login test passed
+08/Mar/2021 15:25:46,915- Web Application: URL is opened
+08/Mar/2021 15:25:47,211- Web Application: UserName Entered
+08/Mar/2021 15:25:47,309- Web Application: Password Entered
+08/Mar/2021 15:25:48,272- Web Application: Login Button Clicked
+08/Mar/2021 15:25:48,280- Web Application: Login test passed
+08/Mar/2021 15:32:12,064- Web Application: URL is opened
+08/Mar/2021 15:32:12,246- Web Application: UserName Entered
+08/Mar/2021 15:32:12,370- Web Application: Password Entered
+08/Mar/2021 15:43:19,683- Web Application: URL is opened
+08/Mar/2021 15:43:19,870- Web Application: UserName Entered
+08/Mar/2021 15:43:19,986- Web Application: Password Entered
+08/Mar/2021 15:44:38,772- Web Application: URL is opened
+08/Mar/2021 15:44:39,006- Web Application: UserName Entered
+08/Mar/2021 15:44:39,137- Web Application: Password Entered
+08/Mar/2021 15:44:40,148- Web Application: Login Button Clicked
+08/Mar/2021 15:45:30,577- Web Application: URL is opened
+08/Mar/2021 15:45:30,782- Web Application: UserName Entered
+08/Mar/2021 15:45:30,891- Web Application: Password Entered
+08/Mar/2021 15:45:31,868- Web Application: Login Button Clicked
+08/Mar/2021 15:49:08,899- Web Application: URL is opened
+08/Mar/2021 15:49:09,068- Web Application: UserName Entered
+08/Mar/2021 15:49:09,163- Web Application: Password Entered
+08/Mar/2021 15:49:10,105- Web Application: Login Button Clicked
+08/Mar/2021 15:55:41,198- Web Application: URL is opened
+08/Mar/2021 15:55:41,609- Web Application: UserName Entered
+08/Mar/2021 15:55:41,733- Web Application: Password Entered
+08/Mar/2021 15:55:42,597- Web Application: Login Button Clicked
+08/Mar/2021 15:56:25,836- Web Application: URL is opened
+08/Mar/2021 15:56:26,049- Web Application: UserName Entered
+08/Mar/2021 15:56:26,164- Web Application: Password Entered
+08/Mar/2021 15:56:27,194- Web Application: Login Button Clicked
+08/Mar/2021 16:07:39,419- Web Application: URL is opened
+08/Mar/2021 16:07:39,654- Web Application: UserName Entered
+08/Mar/2021 16:07:39,765- Web Application: Password Entered
+08/Mar/2021 16:07:40,763- Web Application: Login Button Clicked
+08/Mar/2021 17:59:35,104- Web Application: user name provided
+08/Mar/2021 17:59:35,256- Web Application: password provided
+08/Mar/2021 17:59:39,304- Web Application: Login passed
+08/Mar/2021 17:59:43,812- Web Application: user name provided
+08/Mar/2021 17:59:43,924- Web Application: password provided
+09/Mar/2021 12:38:31,455- Web Application: username is provided
+09/Mar/2021 12:38:31,569- Web Application: password is provided
+09/Mar/2021 12:38:35,814- Web Application: customer name is provided
+09/Mar/2021 12:38:35,903- Web Application: customer gender is provided
+09/Mar/2021 12:38:36,062- Web Application: customer date of birth is provided
+09/Mar/2021 12:38:38,158- Web Application: customer address is provided
+09/Mar/2021 12:38:38,252- Web Application: customer city is provided
+09/Mar/2021 12:38:38,338- Web Application: customer state is provided
+09/Mar/2021 12:38:38,432- Web Application: customer pin code is provided
+09/Mar/2021 12:38:38,523- Web Application: customer phone is provided
+09/Mar/2021 12:38:38,634- Web Application: customer email is provided
+09/Mar/2021 12:38:38,717- Web Application: customer password is provided
+09/Mar/2021 12:39:45,911- Web Application: username is provided
+09/Mar/2021 12:39:46,012- Web Application: password is provided
+09/Mar/2021 12:39:50,611- Web Application: customer name is provided
+09/Mar/2021 12:39:50,689- Web Application: customer gender is provided
+09/Mar/2021 12:39:50,850- Web Application: customer date of birth is provided
+09/Mar/2021 12:39:52,947- Web Application: customer address is provided
+09/Mar/2021 12:39:53,037- Web Application: customer city is provided
+09/Mar/2021 12:39:53,126- Web Application: customer state is provided
+09/Mar/2021 12:39:53,215- Web Application: customer pin code is provided
+09/Mar/2021 12:39:53,304- Web Application: customer phone is provided
+09/Mar/2021 12:39:53,412- Web Application: customer email is provided
+09/Mar/2021 12:39:53,498- Web Application: customer password is provided
+09/Mar/2021 12:39:57,241- Web Application: customer registered successfully
+09/Mar/2021 15:01:39,802- Web Application: username is provided
+09/Mar/2021 15:01:39,913- Web Application: password is provided
+09/Mar/2021 15:01:44,755- Web Application: customer name is provided
+09/Mar/2021 15:01:44,867- Web Application: customer gender is provided
+09/Mar/2021 15:01:45,239- Web Application: customer date of birth is provided
+09/Mar/2021 15:01:47,446- Web Application: customer address is provided
+09/Mar/2021 15:01:47,547- Web Application: customer city is provided
+09/Mar/2021 15:01:47,651- Web Application: customer state is provided
+09/Mar/2021 15:01:47,753- Web Application: customer pin code is provided
+09/Mar/2021 15:01:47,856- Web Application: customer phone is provided
+09/Mar/2021 15:01:48,000- Web Application: customer email is provided
+09/Mar/2021 15:01:48,104- Web Application: customer password is provided
+09/Mar/2021 15:01:51,788- Web Application: customer registered successfully
+09/Mar/2021 17:56:24,072- Web Application: username is provided
+09/Mar/2021 17:56:24,279- Web Application: password is provided
+09/Mar/2021 17:56:28,901- Web Application: customer name is provided
+09/Mar/2021 17:56:29,001- Web Application: customer gender is provided
+09/Mar/2021 17:56:29,219- Web Application: customer date of birth is provided
+09/Mar/2021 17:56:31,325- Web Application: customer address is provided
+09/Mar/2021 17:56:31,440- Web Application: customer city is provided
+09/Mar/2021 17:56:31,558- Web Application: customer state is provided
+09/Mar/2021 17:56:31,681- Web Application: customer pin code is provided
+09/Mar/2021 17:56:31,815- Web Application: customer phone is provided
+09/Mar/2021 17:56:31,960- Web Application: customer email is provided
+09/Mar/2021 17:56:32,069- Web Application: customer password is provided
+09/Mar/2021 17:56:35,891- Web Application: customer registered successfully
+11/Mar/2021 11:31:54,833- Web Application: username is provided
+11/Mar/2021 11:31:54,930- Web Application: password is provided
+11/Mar/2021 11:31:59,573- Web Application: customer name is provided
+11/Mar/2021 11:31:59,645- Web Application: customer gender is provided
+11/Mar/2021 11:31:59,810- Web Application: customer date of birth is provided
+11/Mar/2021 11:32:01,917- Web Application: customer address is provided
+11/Mar/2021 11:32:02,012- Web Application: customer city is provided
+11/Mar/2021 11:32:02,098- Web Application: customer state is provided
+11/Mar/2021 11:32:02,186- Web Application: customer pin code is provided
+11/Mar/2021 11:32:02,275- Web Application: customer phone is provided
+11/Mar/2021 11:32:02,426- Web Application: customer email is provided
+11/Mar/2021 11:32:02,507- Web Application: customer password is provided
+11/Mar/2021 11:32:06,194- Web Application: customer registered successfully
+11/Mar/2021 11:50:28,166- Web Application: username is provided
+11/Mar/2021 11:50:28,286- Web Application: password is provided
+11/Mar/2021 11:50:32,628- Web Application: customer name is provided
+11/Mar/2021 11:50:32,743- Web Application: customer gender is provided
+11/Mar/2021 11:50:32,985- Web Application: customer date of birth is provided
+11/Mar/2021 11:50:35,101- Web Application: customer address is provided
+11/Mar/2021 11:50:35,266- Web Application: customer city is provided
+11/Mar/2021 11:50:35,390- Web Application: customer state is provided
+11/Mar/2021 11:50:35,519- Web Application: customer pin code is provided
+11/Mar/2021 11:50:35,669- Web Application: customer phone is provided
+11/Mar/2021 11:50:35,869- Web Application: customer email is provided
+11/Mar/2021 11:50:35,996- Web Application: customer password is provided
+11/Mar/2021 11:50:39,769- Web Application: customer registered successfully
+11/Mar/2021 12:44:50,328- Web Application: username is provided
+11/Mar/2021 12:44:50,409- Web Application: password is provided
+11/Mar/2021 12:44:54,789- Web Application: customer name is provided
+11/Mar/2021 12:44:54,850- Web Application: customer gender is provided
+11/Mar/2021 12:44:54,996- Web Application: customer date of birth is provided
+11/Mar/2021 12:44:57,074- Web Application: customer address is provided
+11/Mar/2021 12:44:57,150- Web Application: customer city is provided
+11/Mar/2021 12:44:57,220- Web Application: customer state is provided
+11/Mar/2021 12:44:57,293- Web Application: customer pin code is provided
+11/Mar/2021 12:44:57,377- Web Application: customer phone is provided
+11/Mar/2021 12:44:57,467- Web Application: customer email is provided
+11/Mar/2021 12:44:57,532- Web Application: customer password is provided
+11/Mar/2021 12:45:01,232- Web Application: customer registered successfully
+11/Mar/2021 12:55:35,253- Web Application: username is provided
+11/Mar/2021 12:55:35,328- Web Application: password is provided
+11/Mar/2021 12:55:39,829- Web Application: customer name is provided
+11/Mar/2021 12:55:39,896- Web Application: customer gender is provided
+11/Mar/2021 12:55:40,065- Web Application: customer date of birth is provided
+11/Mar/2021 12:55:42,155- Web Application: customer address is provided
+11/Mar/2021 12:55:42,222- Web Application: customer city is provided
+11/Mar/2021 12:55:42,289- Web Application: customer state is provided
+11/Mar/2021 12:55:42,360- Web Application: customer pin code is provided
+11/Mar/2021 12:55:42,436- Web Application: customer phone is provided
+11/Mar/2021 12:55:42,531- Web Application: customer email is provided
+11/Mar/2021 12:55:42,593- Web Application: customer password is provided
+11/Mar/2021 12:55:46,550- Web Application: customer registered successfully
+11/Mar/2021 13:00:48,422- Web Application: username is provided
+11/Mar/2021 13:00:48,504- Web Application: password is provided
+11/Mar/2021 13:00:52,790- Web Application: customer name is provided
+11/Mar/2021 13:00:52,853- Web Application: customer gender is provided
+11/Mar/2021 13:00:53,027- Web Application: customer date of birth is provided
+11/Mar/2021 13:00:55,100- Web Application: customer address is provided
+11/Mar/2021 13:00:55,170- Web Application: customer city is provided
+11/Mar/2021 13:00:55,237- Web Application: customer state is provided
+11/Mar/2021 13:00:55,305- Web Application: customer pin code is provided
+11/Mar/2021 13:00:55,376- Web Application: customer phone is provided
+11/Mar/2021 13:00:55,472- Web Application: customer email is provided
+11/Mar/2021 13:00:55,541- Web Application: customer password is provided
+11/Mar/2021 13:00:59,201- Web Application: customer registered successfully
+11/Mar/2021 13:53:02,072- Web Application: username is provided
+11/Mar/2021 13:53:02,139- Web Application: password is provided
+11/Mar/2021 13:53:06,329- Web Application: customer name is provided
+11/Mar/2021 13:53:06,387- Web Application: customer gender is provided
+11/Mar/2021 13:53:06,537- Web Application: customer date of birth is provided
+11/Mar/2021 13:53:08,620- Web Application: customer address is provided
+11/Mar/2021 13:53:08,709- Web Application: customer city is provided
+11/Mar/2021 13:53:08,782- Web Application: customer state is provided
+11/Mar/2021 13:53:08,864- Web Application: customer pin code is provided
+11/Mar/2021 13:53:08,946- Web Application: customer phone is provided
+11/Mar/2021 13:53:09,054- Web Application: customer email is provided
+11/Mar/2021 13:53:09,117- Web Application: customer password is provided
+11/Mar/2021 13:53:12,756- Web Application: customer registered successfully
+11/Mar/2021 16:08:06,630- Web Application: username is provided
+11/Mar/2021 16:08:06,715- Web Application: password is provided
+11/Mar/2021 16:08:11,102- Web Application: customer name is provided
+11/Mar/2021 16:08:11,158- Web Application: customer gender is provided
+11/Mar/2021 16:08:11,309- Web Application: customer date of birth is provided
+11/Mar/2021 16:08:13,400- Web Application: customer address is provided
+11/Mar/2021 16:08:13,463- Web Application: customer city is provided
+11/Mar/2021 16:08:13,531- Web Application: customer state is provided
+11/Mar/2021 16:08:13,627- Web Application: customer pin code is provided
+11/Mar/2021 16:08:13,725- Web Application: customer phone is provided
+11/Mar/2021 16:08:13,846- Web Application: customer email is provided
+11/Mar/2021 16:08:13,920- Web Application: customer password is provided
+11/Mar/2021 16:17:45,054- Web Application: username is provided
+11/Mar/2021 16:17:45,137- Web Application: password is provided
+11/Mar/2021 16:17:49,783- Web Application: customer name is provided
+11/Mar/2021 16:17:49,846- Web Application: customer gender is provided
+11/Mar/2021 16:17:49,994- Web Application: customer date of birth is provided
+11/Mar/2021 16:17:52,065- Web Application: customer address is provided
+11/Mar/2021 16:17:52,142- Web Application: customer city is provided
+11/Mar/2021 16:17:52,210- Web Application: customer state is provided
+11/Mar/2021 16:17:52,281- Web Application: customer pin code is provided
+11/Mar/2021 16:17:52,357- Web Application: customer phone is provided
+11/Mar/2021 16:17:52,449- Web Application: customer email is provided
+11/Mar/2021 16:17:52,514- Web Application: customer password is provided
+11/Mar/2021 16:17:56,198- Web Application: customer registered successfully

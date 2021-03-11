@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HybridFW" duration-ms="16644" started-at="2021-03-09T11:39:41Z" finished-at="2021-03-09T11:39:58Z">
+    <groups>
+    </groups>
+    <test name="guru99 web app test" duration-ms="16644" started-at="2021-03-09T11:39:41Z" finished-at="2021-03-09T11:39:58Z">
+      <class name="com.qa.web.test.NewCustomerTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.qa.web.test.NewCustomerTest@3d74bf60]" name="setup" is-config="true" duration-ms="4026" started-at="2021-03-09T11:39:41Z" finished-at="2021-03-09T11:39:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addCustomer()[pri:0, instance:com.qa.web.test.NewCustomerTest@3d74bf60]" name="addCustomer" duration-ms="11496" started-at="2021-03-09T11:39:45Z" finished-at="2021-03-09T11:39:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.web.test.NewCustomerTest@3d74bf60]" name="tearDown" is-config="true" duration-ms="955" started-at="2021-03-09T11:39:57Z" finished-at="2021-03-09T11:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.web.test.NewCustomerTest -->
+    </test> <!-- guru99 web app test -->
+  </suite> <!-- HybridFW -->
+</testng-results>

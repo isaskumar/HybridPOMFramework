@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="HybridFW">
+
+	<listeners>
+		<listener class-name="com.qa.web.utils.WebEventListener" />
+	</listeners>
+	
+	<test name="guru99 web app test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!-- <class name="com.qa.web.test.LoginTest"></class>  -->
+			<!-- <class name="com.qa.web.test.HomePageTest"></class> -->
+			<class name="com.qa.web.test.NewCustomerTest"></class>
+		</classes>
+	</test>
+</suite>
